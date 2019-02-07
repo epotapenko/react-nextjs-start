@@ -1,5 +1,5 @@
 # react-nextjs-start
-Simple boilerplate for quick start React with Next.js
+A simple boilerplate for quick start React-Next.js project.
 
 To start coding to make the below points:
 
